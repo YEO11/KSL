@@ -1,0 +1,6 @@
+train: C:/Users/bsyeol/Desktop/KSL/data/train/images
+val: C:/Users/bsyeol/Desktop/KSL/data/val/images
+test: C:/Users/bsyeol/Desktop/KSL/data/test/images
+
+nc: 3
+names: ['giyok', 'nieun', 'digeut']
